@@ -51,3 +51,9 @@ p {
 	line-height: 18.9px;
 	padding: 0 10px 0 10px;
 }
+
+footer {
+    position: absolute;
+    bottom: 3px;
+	font-size: 16px;
+}
